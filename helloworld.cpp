@@ -4,9 +4,9 @@
 
 using namespace std;
 
+int c;
 
-int main(int argc, char const *argv[])
-{
+int main(int argc, char const *argv[]){
 	cout << "Hello, world" << endl;
 
 	for (int i = 0; i < 10; ++i)
