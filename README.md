@@ -1,4 +1,4 @@
-##Pygame prototype
+## Pygame prototype
 ## This is a game
 
 this is a **prototype**
