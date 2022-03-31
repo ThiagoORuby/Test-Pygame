@@ -4,12 +4,16 @@
 
 this is a **bold** and a *italic*
 
------
 A List:
 
 * First
 * Second
 * Third
+
+~~~python
+for 1 in range(10):
+	pass
+~~~
 
 1. first
 2. second
@@ -22,9 +26,6 @@ Exemplo | Valor
 Um numero | 2
 Uma letra | A
 
-~~~javascript
-console.log('hey');
-~~~
 
 
 ![bola](intro_ball.gif)
